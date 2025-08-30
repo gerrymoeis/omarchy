@@ -1,6 +1,6 @@
 sudo pacman -S --noconfirm --needed \
-  1password-beta \
-  1password-cli \
+#  1password-beta \
+#  1password-cli \
   alacritty \
   avahi \
   bash-completion \
@@ -8,17 +8,17 @@ sudo pacman -S --noconfirm --needed \
   blueberry \
   brightnessctl \
   btop \
-  cargo \
-  clang \
-  cups \
-  cups-browsed \
-  cups-filters \
-  cups-pdf \
-  docker \
-  docker-buildx \
-  docker-compose \
+#  cargo \
+#  clang \
+#  cups \
+#  cups-browsed \
+#  cups-filters \
+#  cups-pdf \
+#  docker \
+#  docker-buildx \
+#  docker-compose \
   dust \
-  evince \
+#  evince \
   eza \
   fastfetch \
   fcitx5 \
@@ -27,9 +27,9 @@ sudo pacman -S --noconfirm --needed \
   fd \
   ffmpegthumbnailer \
   fzf \
-  gcc14 \
-  github-cli \
-  gnome-calculator \
+#  gcc14 \
+#  github-cli \
+#  gnome-calculator \
   gnome-keyring \
   gnome-themes-extra \
   gum \
@@ -43,24 +43,24 @@ sudo pacman -S --noconfirm --needed \
   hyprsunset \
   imagemagick \
   impala \
-  imv \
+#  imv \
   inetutils \
   jq \
-  kdenlive \
+#  kdenlive \
   kvantum-qt5 \
-  lazydocker \
-  lazygit \
+#  lazydocker \
+#  lazygit \
   less \
   libqalculate \
-  libreoffice \
-  llvm \
-  localsend \
+#  libreoffice \
+#  llvm \
+#  localsend \
   luarocks \
   mako \
   man \
   mariadb-libs \
-  mise \
-  mpv \
+#  mise \
+#  mpv \
   nautilus \
   noto-fonts \
   noto-fonts-cjk \
@@ -68,11 +68,11 @@ sudo pacman -S --noconfirm --needed \
   noto-fonts-extra \
   nss-mdns \
   nvim \
-  obs-studio \
-  obsidian \
-  omarchy-chromium \
+#  obs-studio \
+#  obsidian \
+#  omarchy-chromium \
   pamixer \
-  pinta \
+#  pinta \
   playerctl \
   plocate \
   plymouth \
@@ -80,23 +80,23 @@ sudo pacman -S --noconfirm --needed \
   postgresql-libs \
   power-profiles-daemon \
   python-gobject \
-  python-poetry-core \
+#  python-poetry-core \
   python-terminaltexteffects \
   ripgrep \
   satty \
-  signal-desktop \
+#  signal-desktop \
   slurp \
-  spotify \
+#  spotify \
   starship \
-  sushi \
+#  sushi \
   swaybg \
   swayosd \
-  system-config-printer \
+#  system-config-printer \
   tldr \
-  tree-sitter-cli \
-  ttf-cascadia-mono-nerd \
-  ttf-jetbrains-mono \
-  typora \
+#  tree-sitter-cli \
+#  ttf-cascadia-mono-nerd \
+#  ttf-jetbrains-mono \
+#  typora \
   tzupdate \
   ufw \
   ufw-docker \
@@ -106,7 +106,7 @@ sudo pacman -S --noconfirm --needed \
   waybar \
   wf-recorder \
   whois \
-  wiremix \
+#  wiremix \
   wireplumber \
   wl-clip-persist \
   wl-clipboard \
@@ -115,7 +115,7 @@ sudo pacman -S --noconfirm --needed \
   xdg-desktop-portal-gtk \
   xdg-desktop-portal-hyprland \
   xmlstarlet \
-  xournalpp \
+#  xournalpp \
   yaru-icon-theme \
   yay \
   zoxide
