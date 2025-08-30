@@ -35,6 +35,9 @@ source $OMARCHY_INSTALL/config/increase-lockout-limit.sh
 source $OMARCHY_INSTALL/config/ssh-flakiness.sh
 source $OMARCHY_INSTALL/config/detect-keyboard-layout.sh
 source $OMARCHY_INSTALL/config/xcompose.sh
+# source $OMARCHY_INSTALL/config/mise-ruby.sh
+# source $OMARCHY_INSTALL/config/docker.sh
+# source $OMARCHY_INSTALL/config/mimetypes.sh
 source $OMARCHY_INSTALL/config/localdb.sh
 source $OMARCHY_INSTALL/config/hardware/network.sh
 source $OMARCHY_INSTALL/config/hardware/fix-fkeys.sh
@@ -59,6 +62,9 @@ if sudo test -f /etc/sudoers.d/99-omarchy-installer; then
   sudo rm -f /etc/sudoers.d/99-omarchy-installer &>/dev/null
   echo -e "\nRemember to remove USB installer!\n\n"
 fi
+
+sleep 5
+reboot
 
 sleep 5
 reboot
