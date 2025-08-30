@@ -18,16 +18,16 @@ source $OMARCHY_INSTALL/preflight/first-run-mode.sh
 # Packaging
 source $OMARCHY_INSTALL/packages.sh
 source $OMARCHY_INSTALL/packaging/asdcontrol.sh
-source $OMARCHY_INSTALL/packaging/fonts.sh
+# source $OMARCHY_INSTALL/packaging/fonts.sh
 source $OMARCHY_INSTALL/packaging/lazyvim.sh
-source $OMARCHY_INSTALL/packaging/webapps.sh
+# source $OMARCHY_INSTALL/packaging/webapps.sh
 source $OMARCHY_INSTALL/packaging/tuis.sh
 
 # Configuration
 source $OMARCHY_INSTALL/config/config.sh
 source $OMARCHY_INSTALL/config/theme.sh
 source $OMARCHY_INSTALL/config/branding.sh
-source $OMARCHY_INSTALL/config/git.sh
+# source $OMARCHY_INSTALL/config/git.sh
 source $OMARCHY_INSTALL/config/gpg.sh
 source $OMARCHY_INSTALL/config/timezones.sh
 source $OMARCHY_INSTALL/config/increase-sudo-tries.sh
@@ -39,13 +39,13 @@ source $OMARCHY_INSTALL/config/localdb.sh
 source $OMARCHY_INSTALL/config/hardware/network.sh
 source $OMARCHY_INSTALL/config/hardware/fix-fkeys.sh
 source $OMARCHY_INSTALL/config/hardware/bluetooth.sh
-source $OMARCHY_INSTALL/config/hardware/printer.sh
+# source $OMARCHY_INSTALL/config/hardware/printer.sh
 source $OMARCHY_INSTALL/config/hardware/usb-autosuspend.sh
 source $OMARCHY_INSTALL/config/hardware/ignore-power-button.sh
 source $OMARCHY_INSTALL/config/hardware/nvidia.sh
 
 # Login
-source $OMARCHY_INSTALL/login/plymouth.sh
+# source $OMARCHY_INSTALL/login/plymouth.sh
 source $OMARCHY_INSTALL/login/limine-snapper.sh
 source $OMARCHY_INSTALL/login/alt-bootloaders.sh
 
