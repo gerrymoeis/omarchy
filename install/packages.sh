@@ -1,6 +1,4 @@
 sudo pacman -S --noconfirm --needed \
-#  1password-beta \
-#  1password-cli \
   alacritty \
   avahi \
   bash-completion \
@@ -8,17 +6,7 @@ sudo pacman -S --noconfirm --needed \
   blueberry \
   brightnessctl \
   btop \
-#  cargo \
-#  clang \
-#  cups \
-#  cups-browsed \
-#  cups-filters \
-#  cups-pdf \
-#  docker \
-#  docker-buildx \
-#  docker-compose \
   dust \
-#  evince \
   eza \
   fastfetch \
   fcitx5 \
@@ -27,9 +15,6 @@ sudo pacman -S --noconfirm --needed \
   fd \
   ffmpegthumbnailer \
   fzf \
-#  gcc14 \
-#  github-cli \
-#  gnome-calculator \
   gnome-keyring \
   gnome-themes-extra \
   gum \
@@ -43,24 +28,15 @@ sudo pacman -S --noconfirm --needed \
   hyprsunset \
   imagemagick \
   impala \
-#  imv \
   inetutils \
   jq \
-#  kdenlive \
   kvantum-qt5 \
-#  lazydocker \
-#  lazygit \
   less \
   libqalculate \
-#  libreoffice \
-#  llvm \
-#  localsend \
   luarocks \
   mako \
   man \
   mariadb-libs \
-#  mise \
-#  mpv \
   nautilus \
   noto-fonts \
   noto-fonts-cjk \
@@ -68,11 +44,7 @@ sudo pacman -S --noconfirm --needed \
   noto-fonts-extra \
   nss-mdns \
   nvim \
-#  obs-studio \
-#  obsidian \
-#  omarchy-chromium \
   pamixer \
-#  pinta \
   playerctl \
   plocate \
   plymouth \
@@ -80,23 +52,14 @@ sudo pacman -S --noconfirm --needed \
   postgresql-libs \
   power-profiles-daemon \
   python-gobject \
-#  python-poetry-core \
   python-terminaltexteffects \
   ripgrep \
   satty \
-#  signal-desktop \
   slurp \
-#  spotify \
   starship \
-#  sushi \
   swaybg \
   swayosd \
-#  system-config-printer \
   tldr \
-#  tree-sitter-cli \
-#  ttf-cascadia-mono-nerd \
-#  ttf-jetbrains-mono \
-#  typora \
   tzupdate \
   ufw \
   ufw-docker \
@@ -106,7 +69,6 @@ sudo pacman -S --noconfirm --needed \
   waybar \
   wf-recorder \
   whois \
-#  wiremix \
   wireplumber \
   wl-clip-persist \
   wl-clipboard \
@@ -115,7 +77,6 @@ sudo pacman -S --noconfirm --needed \
   xdg-desktop-portal-gtk \
   xdg-desktop-portal-hyprland \
   xmlstarlet \
-#  xournalpp \
   yaru-icon-theme \
   yay \
   zoxide
